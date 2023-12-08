@@ -1,0 +1,39 @@
+{
+  "pageInfo": {
+    "trackingData": [
+      {
+        "cityFuelEfficiency": 22,
+        "highwayFuelEfficiency": 30,
+        "modelYear": 2022,
+        "odometer": 11017,
+        "accountId": "threecountyvolkswagencorpvw",
+        "askingPrice": "38995.0",
+        "bodyStyle": "AWD SEL R-Line 4Motion  Sedan",
+        "chromeId": "425649",
+        "classification": "primary",
+        "doors": "4 door",
+        "driveLine": "AWD",
+        "engine": "4 Cylinder",
+        "engineSize": "2.0L",
+        "exteriorColor": "Oryx White Pearl Effect",
+        "fuelType": "Gasoline",
+        "internetPrice": "$38,995",
+        "inventoryDate": "08/29/2023",
+        "inventoryType": "certified",
+        "link": "/certified/Volkswagen/2022-Volkswagen-Arteon-3ffed5770a0e0a9478e8c686e9e53edf.htm",
+        "make": "Volkswagen",
+        "model": "Arteon",
+        "modelCode": "3H82RT",
+        "newOrUsed": "used",
+        "retailValue": "42995.0",
+        "status": "live",
+        "stockNumber": "30953P",
+        "transmission": "7-Speed Automatic",
+        "trim": "2.0T SEL R-Line",
+        "uuid": "3ffed5770a0e0a9478e8c686e9e53edf",
+        "vin": "WVWAR7AN4NE011039",
+        "estimatedDeliveryDate": ""
+      }
+    ]
+  }
+}

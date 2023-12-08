@@ -1,0 +1,3 @@
+<script>
+    "inventoryApiURL": "/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_USED:inventory-data-bus1/getInventory", "spellcheckApiURL": "/apis/widget/INVENTORY_LISTING_DEFAULT_AUTO_USED:inventory-data-bus1/getSpellcheck"
+</script>
